@@ -1,3 +1,3 @@
 # First-Repository
 
-### Ciência da Computação @ [SPtech]
+### Ciência da Computação SPtech
